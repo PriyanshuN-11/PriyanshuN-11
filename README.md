@@ -44,4 +44,4 @@ I also use Figma when I want to design or sketch out UI ideas before coding them
 
 ### 📫 How to Reach Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/priyanshu_nrg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mainnegi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshunegi11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mainnegi)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/priyanshu_nrg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mainnegi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshunegi11)(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mainnegi)
