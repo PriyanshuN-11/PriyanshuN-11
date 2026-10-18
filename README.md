@@ -1,8 +1,6 @@
 Hey, I'm Priyanshu Negi 👋
 
-I'm a B.Tech CSE student at Maharishi Dayanand University (MDU), specializing in Data Science. I'm a full stack and Web3 developer, and I like working across frontend, backend, and blockchain.
-
-I also run a YouTube channel, **negiii**, where I stream coding, Valorant, and just-chatting content in Hinglish.
+I'm a full stack developer who enjoys building clean, useful web apps across the frontend and backend. I like turning ideas into fast, responsive, easy-to-use products, and I'm always learning something new, on and off the screen.
 
 ---
 
@@ -13,18 +11,20 @@ I also run a YouTube channel, **negiii**, where I stream coding, Valorant, and j
 - Filling gaps in my backend skills: SQL, TypeScript, testing, and system design
 - Exploring full stack opportunities, with a long-term goal of working in Germany
 
+
 ---
 
 ### 🛠️ Tools & Tech
 
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB
-- **Web3:** Solidity, Ethers.js, Hardhat
-- **Data Science:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, NLTK
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions, Vercel, Cloudflare
-- **Core Concepts:** DSA, OOP, System Design
+- **Languages:** JavaScript, TypeScript, Python, Java, SQL, HTML, CSS
+- **Frontend:** React.js, Next.js, Redux Toolkit, Zustand, React Query, React Hook Form, Tailwind CSS, Three.js, GSAP
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs, JWT Authentication, OAuth, WebSockets
+- **Databases:** MongoDB, MySQL, PostgreSQL, Mongoose, Prisma, Redis
+- **Cloud & Developer Tools:** AWS, Git, GitHub, VS Code, Postman, Figma, Vercel, Netlify, Docker, VPS Deployment, GitHub Actions (CI/CD), Cloudflare (CDN & Security)
+- **Core Concepts:** DSA, OOP, System Design, DBMS, API Integration, Responsive Web Design, Component-Based Architecture, UI/UX Implementation, Single Page Applications (SPAs), Web Performance Optimization
 
 ---
+
 
 ### 🎮 A Bit About Me
 
