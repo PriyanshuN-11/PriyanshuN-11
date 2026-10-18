@@ -20,14 +20,11 @@ I also use Figma when I want to design or sketch out UI ideas before coding them
 
 ### A Bit About Me
 
-- 🏋️ Gym, running, calisthenics, yoga, MMA, and cycling keep me moving
-- 🥾 Always up for trekking, hiking, and traveling
-- 🎸 Into music: guitar, singing, rapping, and dancing
-- 📸 I love photography, videography, and content creation
-- 🎮 Gamer and chess player
-- 📚 Reading and writing are a big part of my day
-- 🪄 Magic tricks, origami, cooking, and building Gundam models
-- 💡 I like building things that are simple, useful, and easy to understand
+- 🤸 Calisthenics and running keep me active
+- 🎸 I play the guitar
+- 🎨 I love making art
+- 📸 Photography and videography are my creative side
+- 🤖 Plamo builder
 
 
 ---
