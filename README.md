@@ -1,4 +1,4 @@
-### Hi, I'm Priyanshi 👋
+Hey, I'm Priyanshu Negi 👋
 
 I'm a B.Tech CSE student at Maharishi Dayanand University (MDU), specializing in Data Science. I'm a full stack and Web3 developer, and I like working across frontend, backend, and blockchain.
 
