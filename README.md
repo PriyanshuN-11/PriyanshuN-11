@@ -18,6 +18,22 @@ I also use Figma when I want to design or sketch out UI ideas before coding them
 
 ---
 
+### Featured Projects
+
+**HomeServices | React, Tailwind CSS**
+
+- Solved the hassle of finding home services in one place for people who struggled with scattered listings and unclear options.
+- Users can browse available services, view details on clean cards, and choose what they need through a simple, responsive interface.
+- Made finding the right service quicker and clearer with a layout that works smoothly on any screen size.
+
+**Himalayan Camping & Resort | React, Tailwind CSS**
+
+- Solved the problem of travelers struggling to find and compare camping and resort stays, with details spread across different places.
+- Users can browse stays in a card grid, see the key details at a glance, and explore the options on a clean, easy-to-read page.
+- Gave the stays a polished, memorable look with Playfair Display typography and a fully responsive design.
+
+---
+
 ### A Bit About Me
 
 - 🤸 Calisthenics and running keep me active
@@ -25,9 +41,6 @@ I also use Figma when I want to design or sketch out UI ideas before coding them
 - 🎨 I love making art
 - 📸 Photography and videography are my creative side
 - 🤖 Plamo builder
-
-
----
 
 ### 📫 How to Reach Me
 
