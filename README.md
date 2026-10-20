@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Priyanshi; I'm a full stack developer.
+I'm Priyanshi a full stack developer.
 
 My area of expertise includes React, Next.js, Node.js, and MongoDB. I specialize in developing web apps that are fast, responsive, and visually appealing. My applications are optimized for performance; they provide a great user experience and a smooth UI/UX, are easy to use, and run consistently from the frontend UI down to the database.
 
