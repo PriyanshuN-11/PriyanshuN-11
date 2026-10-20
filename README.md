@@ -1,10 +1,10 @@
 ### Hey there 👋
 
-I'm Priyanshi, a full stack developer.
+I'm Priyanshi; I'm a full stack developer.
 
-Most of my work is in React, Next.js, Node.js, and MongoDB. I like building web apps that load fast, look good on any screen, and work properly from the UI all the way down to the database.
+My area of expertise includes React, Next.js, Node.js, and MongoDB. I specialize in developing web apps that are fast, responsive, and visually appealing. My applications are optimized for performance; they provide a great user experience and a smooth UI/UX, are easy to use, and run consistently from the frontend UI down to the database.
 
-When I want to plan out a UI before coding it, I sketch it in Figma first.
+I tend to sketch my UI mockups in Figma before developing them.
 
 ---
 
