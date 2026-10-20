@@ -36,10 +36,10 @@ I tend to sketch my UI mockups in Figma before developing them.
 
 ### A Bit About Me
 
-- 🤸 Calisthenics and running keep me active
-- 🎸 I play the guitar
-- 🎨 I love making art
-- 📸 Photography and videography are my creative side
+- 🤸Calisthenics and running help me stay active
+- 🎸 Playing guitar is a hobby of mine
+- 🎨 I enjoy expressing myself through art
+- 📸 Photography and videography have become a passion of mine
 - 🤖 Plamo builder
 
 ---
